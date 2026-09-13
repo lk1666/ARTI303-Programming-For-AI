@@ -1,2 +1,2 @@
 # arti303.
-my first repository on github
+Contains my lab work for ARTI 303 course
